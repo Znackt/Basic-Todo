@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set base font and color */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #84cfbad4;
+  }
+
+#body-container {
+    display: flex;
+
+    height: 700px;
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    border: 5px solid rgb(255, 0, 0);
+    border-radius:2%;
+}
+
+#landing-page {
+    background-color: antiquewhite;
+    height: 99%;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 2%;
+}
